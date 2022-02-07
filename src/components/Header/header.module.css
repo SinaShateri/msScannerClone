@@ -39,7 +39,7 @@
 }
 
 @media (max-width: 500px) {
-  .mainHeader a {
+  .mainHeader ul li a {
     padding: 2rem 1rem;
   }
 }/*# sourceMappingURL=Header.module.css.map */
