@@ -1,0 +1,19 @@
+.backGround {
+  background-image: url("./assets/images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1100px;
+  min-height: 100vh;
+  position: relative;
+  /* background-color: lightblue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
